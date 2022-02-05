@@ -4,13 +4,163 @@ title: Calendar
 uid: 74708c73-f975-5576-cc03-a811565d17ea
 ---
 
-| SES # | TOPICS | ACTIVITIES | KEY DATES |
-| --- | --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} L1: Introduction to Design (de Weck) {{< br >}}{{< br >}} {{< h 3 >}}Team Presentations{{< /h >}} {{< br >}}{{< br >}} MITSET {{< br >}}{{< br >}} VDS {{< br >}}{{< br >}}  | Form teams of 2-3, pick components to be designed, tour the facilities. | Teams Assigned |
-| 2 | L2: Hand Sketching (Wallace) | Sketch initial designs by hand, rough sizing and concept. | (A) Requirements and Interface Document (2 pages) |
-| 3 |  {{< br >}}{{< br >}} L3: CAD Mechanical Modeling (de Weck) {{< br >}}{{< br >}} Computer Aided Engineering (CAE) (de Weck) {{< br >}}{{< br >}} Solidworks® Tutorial {{< br >}}{{< br >}}  | Initial CAD Model of components. Start FEM modeling. Initial static loads analysis, performance analysis. | (B) Hand Sketch of Conceptual Design (1 page) |
-| 4 | L4: Prototyping Avionics (Electronics) | Design circuit boards, simple avionics layout, prototyping the avionics into PCB's. |  |
-| 5  {{< br >}} | L5: Electric Motors and Hybrid Drives (Beat Arnet, Azure Dynamics) | Learn about electric motors, hybrid drives, energy storage devices. | (C) Solidworks® CAD Model, Performance Analysis (5-page memo) |
-| 6 | L6: Manufacturing and Testing (de Weck) | Introduction to manufacturing, water jet cutting, manufacturing, testing. |  |
-| 7 | L7: Microwave System Design (Frank Willwerth, Lincoln Lab) | Prepare final presentation. | (D) Manufacturing and Test Report (2-page report) |
-| 8 | Critical Design Review (CDR) | Give final presentations; display final products. | (E) CDR Presentation (max 8 slides)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L1: Introduction to Design (de Weck)
+
+### Team Presentations
+
+MITSET
+
+VDS
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Form teams of 2-3, pick components to be designed, tour the facilities.
+{{< tdclose >}}
+{{< tdopen >}}
+Teams Assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+L2: Hand Sketching (Wallace)
+{{< tdclose >}}
+{{< tdopen >}}
+Sketch initial designs by hand, rough sizing and concept.
+{{< tdclose >}}
+{{< tdopen >}}
+(A) Requirements and Interface Document (2 pages)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L3: CAD Mechanical Modeling (de Weck)
+
+Computer Aided Engineering (CAE) (de Weck)
+
+Solidworks® Tutorial
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Initial CAD Model of components. Start FEM modeling. Initial static loads analysis, performance analysis.
+{{< tdclose >}}
+{{< tdopen >}}
+(B) Hand Sketch of Conceptual Design (1 page)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+L4: Prototyping Avionics (Electronics)
+{{< tdclose >}}
+{{< tdopen >}}
+Design circuit boards, simple avionics layout, prototyping the avionics into PCB's.
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5  
+
+{{< tdclose >}}
+{{< tdopen >}}
+L5: Electric Motors and Hybrid Drives (Beat Arnet, Azure Dynamics)
+{{< tdclose >}}
+{{< tdopen >}}
+Learn about electric motors, hybrid drives, energy storage devices.
+{{< tdclose >}}
+{{< tdopen >}}
+(C) Solidworks® CAD Model, Performance Analysis (5-page memo)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+L6: Manufacturing and Testing (de Weck)
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to manufacturing, water jet cutting, manufacturing, testing.
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+L7: Microwave System Design (Frank Willwerth, Lincoln Lab)
+{{< tdclose >}}
+{{< tdopen >}}
+Prepare final presentation.
+{{< tdclose >}}
+{{< tdopen >}}
+(D) Manufacturing and Test Report (2-page report)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Critical Design Review (CDR)
+{{< tdclose >}}
+{{< tdopen >}}
+Give final presentations; display final products.
+{{< tdclose >}}
+{{< tdopen >}}
+(E) CDR Presentation (max 8 slides)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
