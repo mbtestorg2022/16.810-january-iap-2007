@@ -22,7 +22,7 @@ The team project was to design a new hub motor that meets similar high-efficienc
 
 A ([PDF]({{< baseurl >}}/resources/projapeddie))
 
-B (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/projbpeddie))
+B ([PDF]({{< baseurl >}}/resources/projbpeddie))
 
 C ([PDF]({{< baseurl >}}/resources/projcpeddie))
 

@@ -22,7 +22,7 @@ The team project was to design a rectenna system to convert microwaves into DC t
 
 A ([PDF]({{< baseurl >}}/resources/projeanderson))
 
-B (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/projbanderson))
+B ([PDF]({{< baseurl >}}/resources/projbanderson))
 
 C ([PDF]({{< baseurl >}}/resources/projcanderson))
 

@@ -22,7 +22,7 @@ The team project was to design and implement a method for the driver to enter an
 
 A ([PDF]({{< baseurl >}}/resources/projamcbrien))
 
-B (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/projbmcbrien))
+B ([PDF]({{< baseurl >}}/resources/projbmcbrien))
 
 C ([PDF]({{< baseurl >}}/resources/projcmcbrien))
 

@@ -100,7 +100,7 @@ Initial CAD Model of components. Start FEM modeling. Initial static loads analys
 
 Assignment ([PDF]({{< baseurl >}}/resources/assnb))
 
-Example (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assnbexamp))
+Example ([PDF]({{< baseurl >}}/resources/assnbexamp))
 
 
 {{< tdclose >}}

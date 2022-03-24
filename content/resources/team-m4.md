@@ -22,7 +22,7 @@ The team project was to reduce the weight of the roller assembly so as to increa
 
 A ([PDF]({{< baseurl >}}/resources/projamclinko))
 
-B (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/projbmclinko))
+B ([PDF]({{< baseurl >}}/resources/projbmclinko))
 
 C ([PDF]({{< baseurl >}}/resources/projcmclinko))
 

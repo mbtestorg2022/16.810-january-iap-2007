@@ -22,7 +22,7 @@ The team project was to design the source of the microwave beam to power MIT Spa
 
 A ([PDF]({{< baseurl >}}/resources/projadhar))
 
-B (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/projbdhar))
+B ([PDF]({{< baseurl >}}/resources/projbdhar))
 
 C ([PDF]({{< baseurl >}}/resources/projcdhar))
 
